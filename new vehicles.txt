@@ -1,0 +1,6 @@
+bus
+car
+bike
+motobike
+skate
+none
